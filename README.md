@@ -44,7 +44,7 @@
 ## 💻 주요 프로젝트 (Projects)
 
 ### 1. 🛒 MarketSync: Agentic RAG 기반 소상공인 마케팅 AI 컨설턴트
-> **역할:** AI Agent 설계 및 Streamlit UI 개발 (기여도 100%)  
+> **역할:** AI Agent 설계 및 Streamlit UI 개발 (단독 설계·구현)  
 > **기간:** 2025.08 ~ 2025.10 (제13회 빅콘테스트 출품)
 
 - **Agentic RAG:** LangChain Tool-Calling Agent를 활용, 7가지 분석 도구를 자율 호출하는 Orchestrator 설계
