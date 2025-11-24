@@ -69,7 +69,7 @@
 - **성능 최적화:** 검색 기법 비교 실험을 통해 응답 속도 3.7배 단축 및 정확도 90점 달성
 - **정량 평가:** 자체 데이터셋 구축 및 Auto-Evaluator 활용 (Retrieval 85점 / Answer 83점)
 
-### 4. ♻️ [제로워크: 헬스케어 & 탄소제로 앱] (https://github.com/KKimHyeonJoo/portfolios)
+### 4. ♻️ [제로워크: 헬스케어 & 탄소제로 앱](https://github.com/KKimHyeonJoo/portfolios)
 > **역할:** AI 솔루션 및 데이터 파이프라인 설계 (팀장)  
 > **기간:** 2023.10 ~ 2023.11 (인천대 AI 경진대회 우수상)
 
