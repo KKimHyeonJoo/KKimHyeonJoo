@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 데이터에 가치를 더하는 LLM 엔지니어 김현주입니다.
+# 👋 안녕하세요, 데이터에 가치를 더하는 AI 엔지니어 김현주입니다.
 
 <div align="center">
   <img src="./증명사진.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover;" alt="김현주 프로필 사진">
