@@ -1,8 +1,4 @@
 # 👋 안녕하세요, LLM과 RAG를 통해 신뢰할 수 있는 AI 서비스를 만드는 엔지니어 김현주입니다.
-
-<div align="center">
-  <img src="./증명사진.jpg" width="300" style="border-radius: 50%; object-fit: cover;" alt="김현주 프로필 사진">
-  <br><br>
   
   [![Email Badge](https://img.shields.io/badge/Email-hjk301070%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hjk301070@gmail.com)
   [![Phone Badge](https://img.shields.io/badge/Phone-010--3089--5818-success?style=flat-square&logo=WhatsApp&logoColor=white)]()
